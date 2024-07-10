@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "859691038944",
+    "firebase_url": "https://imavistatic-default-rtdb.firebaseio.com",
+    "project_id": "imavistatic",
+    "storage_bucket": "imavistatic.appspot.com"
+  },
+  "client": [{
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:86c56723eb8a997f5f7885",
+        "android_client_info": {
+          "package_name": "com.example.antrian_poli_klinik_android_tv"
+        }
+      },
+      "oauth_client": [{
+        "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+        "client_type": 3
+      }],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:fdccd976e1a456255f7885",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_romo_paroki"
+        }
+      },
+      "oauth_client": [{
+        "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+        "client_type": 3
+      }],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:22465cdd51cd3f435f7885",
+        "android_client_info": {
+          "package_name": "id.sch.seminarigarum.cafepastor"
+        }
+      },
+      "oauth_client": [{
+          "client_id": "859691038944-8j5tj0om8no0uf55g7vjp83b2ig688ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.sch.seminarigarum.cafepastor",
+            "certificate_hash": "582de03f8ded5e7d24ff3c6cd5e46a5ba8b01e64"
+          }
+        },
+        {
+          "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:b5ed420aefbdbad95f7885",
+        "android_client_info": {
+          "package_name": "com.example.pastoral_app"
+        }
+      },
+      "oauth_client": [{
+          "client_id": "859691038944-9gr67fpducfuu8itdr26j62mihhvvae6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pastoral_app",
+            "certificate_hash": "15fd6b3c8c7bcac0a541052a35bdc0e0b1061d5d"
+          }
+        },
+        {
+          "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:0b270b86882d4d2b5f7885",
+        "android_client_info": {
+          "package_name": "com.imavi.apps"
+        }
+      },
+      "oauth_client": [{
+          "client_id": "859691038944-ebm5rq6go77uesng4s218fhh2r5svke9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imavi.apps",
+            "certificate_hash": "15fd6b3c8c7bcac0a541052a35bdc0e0b1061d5d"
+          }
+        },
+        {
+          "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:65a46bec9e60ce285f7885",
+        "android_client_info": {
+          "package_name": "com.imavi.widya_mandala_spiritual_way"
+        }
+      },
+      "oauth_client": [{
+          "client_id": "859691038944-7krsl27mp4n2424oqku0ofpp6bhmfrli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imavi.widya_mandala_spiritual_way",
+            "certificate_hash": "1c3be6bd62923a8074544e84e8c9b550f1384eda"
+          }
+        },
+        {
+          "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859691038944:android:ec8f2e0b72cca43f5f7885",
+        "android_client_info": {
+          "package_name": "com.kepegawaian_yohannes_gabriel.ks"
+        }
+      },
+      "oauth_client": [{
+        "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+        "client_type": 3
+      }],
+      "api_key": [{
+        "current_key": "AIzaSyCDZTvgvmiyoUZEtCLhC_-VF0RzJJtTmVw"
+      }],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [{
+              "client_id": "859691038944-ljv736t06c0bs8tnjeutmrhjc57uc6q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859691038944-4vgjr6e3hmn8eums7e44hpdi7s59eoa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplikasiRomoParoki"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
